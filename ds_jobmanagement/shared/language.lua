@@ -1,0 +1,17 @@
+Strings = {
+    ["inGroup"] = "You are already in a group",
+    ["joinGroup"] = "You have joined a group",
+    ["createdGroup"] = "You have created a group",
+    ["Leave-NotInGroup"] = "You aren't a part of this group",
+    ["Owner-DisbandGroup"] = "You have disbanded your group",
+    ["Member-DisbandGroup"] = "Your group has been disbanded",
+    ["Owner-MemberLeaveGroup"] = " has left your group",
+    ["Member-LeaveGroup"] = "You have left the group",
+    ["Owner-MemberJoin"] = " has joined your group",
+    ["Owner-KickMember"] = "You have kicked",
+    ["Member-KickMember"] = "You have been kicked from your group",
+    ["Owner=PromotMember"] = "You have promoted ",
+    ["Member-GetPromoted"] = "You have been promoted to group owner",
+    ["start-job-not-owner"] = "You need to lead a group to start",
+    ["groupFull"] = "The group is full",
+}
